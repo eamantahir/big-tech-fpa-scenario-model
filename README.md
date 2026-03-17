@@ -8,6 +8,7 @@ This project builds a multi-scenario FP&A model to project revenue, operating in
 
 ![Net Income Scenarios](image/net_income_scenarios.png)
 
+![Operating Income Scenarios](image/operating_income_scenarios.png)
 ## Tools Used
 - Python
 - Pandas
